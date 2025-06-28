@@ -71,13 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar-5&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
-## 📅 GitHub Contribution Summary
-
-- 🔸 **300+ contributions** in **2025**
-- 🔸 **242 contributions** in **2024**
-- 🔸 **24 contributions** in **2023**
 
 ---
 
