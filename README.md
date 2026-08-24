@@ -253,26 +253,17 @@
 ## 📫 Contact
 
 <p align="center">
-
-  📧
   <a href="mailto:justinrawaat@gmail.com">
-    justinrawaat@gmail.com
+    📧 Email
   </a>
-
   &nbsp;&nbsp; • &nbsp;&nbsp;
-
-  🔗
   <a href="https://linkedin.com/in/ayush-kumar-439235165">
-    LinkedIn
+    🔗 LinkedIn
   </a>
-
   &nbsp;&nbsp; • &nbsp;&nbsp;
-
-  💻
   <a href="https://github.com/ayushkumar-5">
-    GitHub
+    💻 GitHub
   </a>
-
 </p>
 
 ---
